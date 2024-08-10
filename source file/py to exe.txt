@@ -1,0 +1,1 @@
+pyinstaller --onefile --icon=C:\\Users\\AJAY KUMAR M\\Desktop\\text to speech\\source file\\icon\\Applogo.ico Text_to_speech.py
