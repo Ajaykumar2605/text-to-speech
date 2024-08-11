@@ -8,3 +8,12 @@ Welcome to the Text to Speech (TTS) application! This Python-based tool converts
 - **Customizable Parameters**: Adjust speech speed, pitch, and volume to fit your needs.
 - **User-Friendly Interface**: Easy-to-use interface for effortless text input and speech generation.
 - **Cross-Platform**: Compatible with multiple operating systems for broad usability.
+
+## Requirements
+
+- Python 3.x
+- Tkinter
+- Openpyxl
+- Xlrd
+- Pillow
+- Requests 
